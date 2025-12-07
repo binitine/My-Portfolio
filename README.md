@@ -4,8 +4,8 @@ A modern, responsive personal portfolio website showcasing my skills, projects, 
 
 ## 🚀 Live Demo
 
-- **Live URL**: [https://username.github.io/portfolio](https://username.github.io/portfolio)
-- **Repository URL**: [https://github.com/username/portfolio](https://github.com/username/portfolio)
+- **Live URL**: [https://username.github.io/portfolio](https://binitine.github.io/portfolio)
+- **Repository URL**: [https://github.com/username/portfolio](https://github.com/binitine/portfolio)
 
 > **Note**: Replace `username` with your actual GitHub username in the URLs above.
 
@@ -220,5 +220,6 @@ Your Name
 ---
 
 **Note**: Remember to replace all placeholder content (name, email, links, images) with your actual information before deploying!
+
 
 
